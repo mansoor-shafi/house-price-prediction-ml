@@ -70,13 +70,19 @@ B.Tech IT Student | Python | Machine Learning | Web Developer
 
 ---
 
- Project Output
+📸 Project Output
 
-  Dataset Preview
+🔹 Dataset Preview
 
 "Dataset" (dataset.png)
 
-  Model Visualization
+🔹 Model Visualization
+
+"Graph" (graph.png)
+
+🔹 Prediction Output
+
+"Output" (output.png)
 
 "Graph" (graph.png)
 
