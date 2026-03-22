@@ -1,20 +1,20 @@
 # house-price-prediction-ml
-House Price Prediction using Machine Learning
+ House Price Prediction using Machine Learning
 
-Overview
+ Overview
 
 This project predicts house prices using Machine Learning techniques based on multiple features such as area, number of bedrooms, bathrooms, and house condition.
 It uses a real-world dataset and follows a complete ML workflow from data preprocessing to model evaluation.
 
 ---
 
-Academic Context
+ Academic Context
 
 This project was initially developed as part of my 3rd semester coursework in B.Tech IT and later enhanced using a real dataset and improved machine learning techniques.
 
 ---
 
-Technologies Used
+ Technologies Used
 
 - Python
 - Pandas
@@ -24,7 +24,7 @@ Technologies Used
 
 ---
 
-Features
+ Features
 
 - Data cleaning and preprocessing
 - Feature selection
@@ -34,7 +34,7 @@ Features
 
 ---
 
-Dataset
+ Dataset
 
 - Real-world housing dataset (Kaggle)
 - Includes features like:
@@ -46,7 +46,7 @@ Dataset
 
 ---
 
-Results
+ Results
 
 - Successfully built a predictive model for house pricing
 - Achieved reliable predictions using multiple input features
@@ -54,7 +54,7 @@ Results
 
 ---
 
-Key Learning
+ Key Learning
 
 - Understanding of regression models
 - Handling real-world datasets
@@ -63,23 +63,23 @@ Key Learning
 
 ---
 
-Author
+  Author
 
 Mansoor Shafi
 B.Tech IT Student | Python | Machine Learning | Web Developer
 
 ---
 
-Project Output
+ Project Output
 
-Dataset Preview
+  Dataset Preview
 
 "Dataset" (dataset.png)
 
-Model Visualization
+  Model Visualization
 
 "Graph" (graph.png)
 
-Prediction Output
+  Prediction Output
 
 "Output" (output.png)
