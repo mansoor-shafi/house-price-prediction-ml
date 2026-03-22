@@ -67,3 +67,17 @@ Author
 
 Mansoor Shafi
 B.Tech IT Student | Python | Machine Learning | Web Developer
+
+Project Output
+
+Dataset Preview
+
+"Dataset" (dataset.png)
+
+Model Visualization
+
+"Graph" (graph.png)
+
+Prediction Output
+
+"Output" (output.png)
