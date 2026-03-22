@@ -10,7 +10,7 @@ It uses a real-world dataset and follows a complete ML workflow from data prepro
 
  Academic Context
 
-This project was initially developed as part of my 3rd semester coursework in B.Tech IT and later enhanced using a real dataset and improved machine learning techniques.
+This project was initially developed as part of my 4th semester coursework in B.Tech IT and later enhanced using a real dataset and improved machine learning techniques.
 
 ---
 
