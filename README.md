@@ -67,25 +67,3 @@ This project was initially developed as part of my 3rd semester coursework in B.
 
 Mansoor Shafi
 B.Tech IT Student | Python | Machine Learning | Web Developer
-
----
-
-📸 Project Output
-
-🔹 Dataset Preview
-
-"Dataset" (dataset.png)
-
-🔹 Model Visualization
-
-"Graph" (graph.png)
-
-🔹 Prediction Output
-
-"Output" (output.png)
-
-"Graph" (graph.png)
-
-  Prediction Output
-
-"Output" (output.png)
